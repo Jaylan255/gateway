@@ -1,0 +1,5 @@
+{
+  "name": "SwaMedia Gateway",
+  "description": "A redirect gateway informing users of the new SwaMedia domain.",
+  "requestFramePermissions": []
+}
